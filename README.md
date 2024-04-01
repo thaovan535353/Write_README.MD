@@ -13,3 +13,8 @@ I have been living in France for many years.  <br> I like this country.
 - use \ between text as a space (or \ \ for double space)
   <br> $\color{red}{My \ name \ is}$ Van. I'm 28 years old
   <br> $$\color{blue}{My \ name \ is}$$ Van. I'm 28 years old
+## Underline a text
+I love you <ins>so much</ins>
+## Underline and bold a piece of text
+I love you <ins>**so much**</ins>
+
