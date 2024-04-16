@@ -17,4 +17,11 @@ I have been living in France for many years.  <br> I like this country.
 I love you <ins>so much</ins>
 ## Underline and bold a piece of text
 I love you <ins>**so much**</ins>
+## Insert a link
+- use [name](link])
+## Block code
+use ```   ```
+```
+```
+
 
