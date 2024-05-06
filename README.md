@@ -1,5 +1,5 @@
 # Introduction to README.MD file
-## Bold text with **text**
+## Bold text with **
 I have been living **in France** for many years.
 ## Create a line break with  `<br>`
 I have been living in France for many years.  <br> I like this country. 
